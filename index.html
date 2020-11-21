@@ -50,15 +50,15 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-<!--     <p>Logo</p> -->
   </div>
   <div class="middle">
-    <h1>COMING SOON</h1>
+	<img src="thenagageek-logo.svg">
+    <h1>Stuck in Maintenance Mode<img src="loading.gif" height="100"></h1>
     <hr>
     <p id="demo" style="font-size:30px"></p>
   </div>
   <div class="bottomleft">
-    <p>Stay Tuned!</p>
+    <p></p>
   </div>
 </div>
 
@@ -82,7 +82,7 @@ var countdownfunction = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
   
   // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  document.getElementById("demo").innerHTML = "Time Remaining "+ days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
   
   // If the count down is over, write some text 
