@@ -1,0 +1,17 @@
+<svg width="265" height="178" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="267" height="180" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <svg viewBox="0 0 90 90" width="288" height="288" id="svg_5" x="-11.52548" y="-88.59923">
+    <path fill="#1995ad" d="m82,38.6c-2.1,-7.1 -4.5,-10.6 -7.2,-10.9c-0.7,-0.1 -1.2,0.4 -1.3,1.1c-0.1,0.7 0.4,1.2 1.1,1.3c0.6,0.1 2.6,0.8 4.9,8.5c-1,-0.4 -2.1,-0.6 -3.2,-0.6l-17.8,0c-4.4,0 -8,3.3 -8.6,7.5c-0.3,-0.1 -0.7,-0.1 -1.1,-0.1l-7.6,0c-0.4,0 -0.7,0.1 -1.1,0.1c-0.6,-4.2 -4.2,-7.5 -8.6,-7.5l-17.8,0c-1.1,0 -2.2,0.2 -3.2,0.6c2.4,-7.7 4.4,-8.5 4.9,-8.5c0.7,-0.1 1.1,-0.6 1.1,-1.3c-0.1,-0.7 -0.6,-1.1 -1.3,-1.1c-2.8,0.3 -5.1,3.8 -7.2,10.9c-0.2,0.7 -0.4,1.5 -0.6,2.2c-1.5,1.6 -2.4,3.7 -2.4,6l0,8c0,4.8 3.9,8.7 8.7,8.7l17.8,0c4.8,0 8.7,-3.9 8.7,-8.7l0,-6.6c0.3,-0.2 0.6,-0.3 1,-0.3l7.6,0c0.4,0 0.7,0.1 1,0.3l0,6.6c0,4.8 3.9,8.7 8.7,8.7l17.8,0c4.8,0 8.7,-3.9 8.7,-8.7l0,-8c0,-2.3 -0.9,-4.4 -2.4,-6c-0.2,-0.7 -0.4,-1.5 -0.6,-2.2zm-45.6,16.1c0,2.7 -2.2,4.9 -4.9,4.9l-17.8,0c-2.7,0 -4.9,-2.2 -4.9,-4.9l0,-8c0,-2.7 2.2,-4.9 4.9,-4.9l17.8,0c2.7,0 4.9,2.2 4.9,4.9l0,8zm44.8,0c0,2.7 -2.2,4.9 -4.9,4.9l-17.8,0c-2.7,0 -4.9,-2.2 -4.9,-4.9l0,-8c0,-2.7 2.2,-4.9 4.9,-4.9l17.8,0c2.7,0 4.9,2.2 4.9,4.9l0,8z" class="color1d1d1b svgShape" id="svg_6"/>
+   </svg>
+  </g>
+  <text fill="#1995ad" stroke-width="0" x="2.03529" y="133.82799" id="svg_3" font-size="24" font-family="'Trebuchet MS', Gadget, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.2708896398544312,0,0,1.6982489494649062,-2.573451578617096,-71.14673840871848) " stroke="#000" font-weight="bold">TheNagaGeek.com</text>
+  <text fill="#7c797f" stroke="#000" stroke-width="0" x="19.99015" y="176.40077" id="svg_4" font-size="8" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">IN TECHNOLOGY, NOTHING IS MAGIC, EVERTHING IS LOGIC</text>
+ </g>
+</svg>

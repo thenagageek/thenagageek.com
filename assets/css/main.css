@@ -1,0 +1,25 @@
+/* MAIN CSS */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {	
+  display: block;
+  font-size: 100%;	
+  background-color: #ffffff;
+  color: aliceblue;
+  
+}
+.container {
+	width: auto;
+	max-width: 680px;
+	padding: 0 5px;
+  }
+
+footer {
+	display: block;
+}

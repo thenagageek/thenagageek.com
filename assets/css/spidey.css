@@ -1,0 +1,52 @@
+.spidey-bg-red-light{
+    background-color: #DF1F2D;
+}
+
+.spidey-bg-red-dark{
+    background-color: #B11313;
+}
+
+.spidey-bg-blue-light{
+    background-color: #447BBE;
+}
+
+.spidey-bg-blue-dark{
+    background-color: #2B3784;
+}
+
+.spidey-text-red-light{
+    color: #DF1F2D;
+}
+
+.spidey-text-red-dark{
+    color: #B11313;
+}
+
+.spidey-text-blue-light{
+    color: #447BBE;
+}
+
+.spidey-text-blue-dark{
+    color: #2B3784;
+}
+
+.spidey-btn-blue-light{
+    color: #ffffff;
+    background-color: #447BBE;
+    border-color: #2B3784;
+}
+.spidey-btn-blue-dark{
+    color: #ffffff;
+    background-color: #2B3784;
+    border-color: #447BBE;
+}
+.spidey-btn-red-light{
+    color: #ffffff;
+    background-color: #DF1F2D;
+    border-color: #B11313;
+}
+.spidey-btn-red-dark{
+    color: #ffffff;
+    background-color: #B11313;
+    border-color: #DF1F2D;
+}
