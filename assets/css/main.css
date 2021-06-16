@@ -23,3 +23,16 @@ body {
 footer {
 	display: block;
 }
+
+#logo{
+	background-color:#090A0A;
+}
+#about{
+	background-color:#151617;
+}
+.services-odd{
+	background-color:#5A7670;
+}
+.services-even{
+	background-color:#B89F5D;
+}
